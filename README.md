@@ -2,4 +2,4 @@
 
  -feature
  -fix-B
- -error-C
+ -feature-C
